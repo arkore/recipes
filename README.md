@@ -9,3 +9,10 @@ Pizza
 1. Meat
 
 ![This is a Pizza](/pizza.jpg "Grand Pizza")
+
+Salad
+-----
+
+- Greek
+- Caeser
+- Potato
