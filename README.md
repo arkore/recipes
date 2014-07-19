@@ -10,18 +10,17 @@ Pizza
 
 ![This is a Pizza](/pizza.jpg "Grand Pizza")
 
-<<<<<<< HEAD
 Burger
 ------
 
 2. Cheeseburger
 3. Mega Burger
 4. Chicken Burger
-=======
+
+
 Salad
 -----
 
 - Greek
 - Caeser
 - Potato
->>>>>>> origin/master
